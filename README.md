@@ -1,6 +1,6 @@
 Udacity Project 4 to operationalise a Machine Learning Microservice API.
 
-[![CircleCI](https://app.circleci.com/pipelines/github/liarachelian/Kubernetes_project.svg?style=svg)](https://app.circleci.com/pipelines/github/liarachelian/Kubernetes_project)
+[![CircleCI](https://app.circleci.com/pipelines/github/liarachelian/Kubernetes_project.svg?style=shield)](https://app.circleci.com/pipelines/github/liarachelian/Kubernetes_project)
 
 ## Project Overview
 
