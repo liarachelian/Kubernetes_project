@@ -1,4 +1,6 @@
-<include a CircleCI status badge, here>
+Udacity Project 4 to operationalise a Machine Learning Microservice API.
+
+CircleCI
 
 ## Project Overview
 
